@@ -74,7 +74,7 @@ write the reducer logic for the actions 👉 Rinse and repeat
 Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/aqXHiPPM4uCzqD3T5/mbDWo3KwoFmquD).
 
 The completion of these questions is mandatory for MVP. However, passing the quiz doesn't affect your standing as a Lambda School student whatsoever. This is Lambda School testing itself! Please answer honestly and to the best of your ability without using external references.
-
+//test
 
 ### Task 3: Stretch Problems
 
